@@ -1,2 +1,1 @@
-# Halo-Tops
-Web Authoring
+# Halo Tops
